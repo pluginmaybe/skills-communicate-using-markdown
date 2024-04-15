@@ -9,3 +9,6 @@ int b = 24;
 Console.WriteLine(a * b);
 ```
 
+- [ ] Add a checklist
+- [ ] Commit changes
+- [ ] go to bed
